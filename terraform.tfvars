@@ -1,5 +1,5 @@
 # Generic variables
-region = "us-east-1"
+region = "us-west-2"
 
 # VPC variables
 vpc_name             = "demo-vpc"
